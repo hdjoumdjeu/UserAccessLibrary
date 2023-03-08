@@ -1,0 +1,12 @@
+C:\Users\guyco\source\repos\UserAccessLibrary\UserAccessLibrary\bin\Debug\UserAccessLibrary.dll
+C:\Users\guyco\source\repos\UserAccessLibrary\UserAccessLibrary\bin\Debug\UserAccessLibrary.pdb
+C:\Users\guyco\source\repos\UserAccessLibrary\UserAccessLibrary\obj\Debug\UserAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\guyco\source\repos\UserAccessLibrary\UserAccessLibrary\obj\Debug\UserAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\guyco\source\repos\UserAccessLibrary\UserAccessLibrary\obj\Debug\UserAccessLibrary.dll
+C:\Users\guyco\source\repos\UserAccessLibrary\UserAccessLibrary\obj\Debug\UserAccessLibrary.pdb
+C:\Users\Revolution Pro\Documents\HERMANN FOLDER\UserAccessLibrary\UserAccessLibrary\UserAccessLibrary\bin\Debug\UserAccessLibrary.dll
+C:\Users\Revolution Pro\Documents\HERMANN FOLDER\UserAccessLibrary\UserAccessLibrary\UserAccessLibrary\bin\Debug\UserAccessLibrary.pdb
+C:\Users\Revolution Pro\Documents\HERMANN FOLDER\UserAccessLibrary\UserAccessLibrary\UserAccessLibrary\obj\Debug\UserAccessLibrary.dll
+C:\Users\Revolution Pro\Documents\HERMANN FOLDER\UserAccessLibrary\UserAccessLibrary\UserAccessLibrary\obj\Debug\UserAccessLibrary.pdb
+C:\Users\Revolution Pro\Documents\HERMANN FOLDER\UserAccessLibrary\UserAccessLibrary\UserAccessLibrary\obj\Debug\UserAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\Revolution Pro\Documents\HERMANN FOLDER\UserAccessLibrary\UserAccessLibrary\UserAccessLibrary\obj\Debug\UserAccessLibrary.csproj.CoreCompileInputs.cache
